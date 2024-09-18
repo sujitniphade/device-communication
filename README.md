@@ -2,6 +2,7 @@
 Creating a README file for your GitHub repository is a great way to document your project and make it easier for others to understand and use. Here’s a README template based on your code:
 ![image](https://github.com/user-attachments/assets/9e663f83-bd42-432e-906f-f7cf861970f7)
 
+
 Device Communication GUI
 A Python-based GUI application for device communication using sockets. This application allows users to connect to a device, send commands, and view responses in a user-friendly interface.
 
