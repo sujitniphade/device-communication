@@ -1,5 +1,6 @@
 
 Creating a README file for your GitHub repository is a great way to document your project and make it easier for others to understand and use. Here’s a README template based on your code:
+![image](https://github.com/user-attachments/assets/9e663f83-bd42-432e-906f-f7cf861970f7)
 
 Device Communication GUI
 A Python-based GUI application for device communication using sockets. This application allows users to connect to a device, send commands, and view responses in a user-friendly interface.
@@ -17,27 +18,27 @@ socket library (comes with Python standard library)
 Installation
 Clone the repository:
 
-bash
-Copy code
+```bash
 git clone https://github.com/sujitniphade/device-communication.git
+```
 Navigate into the project directory:
 
-bash
-Copy code
+```bash
 cd device-communication-gui
+```
 Install the required libraries:
 
-bash
-Copy code
+```bash
 pip install customtkinter
+```
 Usage
 Open a terminal or command prompt and navigate to the project directory.
 
 Run the application:
 
-bash
-Copy code
+```bash
 python main.py
+```
 The GUI window will appear. You can:
 
 Enter the IP address and port of the device you want to connect to.
