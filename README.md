@@ -48,7 +48,7 @@ Click "Send Command" to send the command to the device and view the response.
 Click "Disconnect" to close the connection.
 Click "Clear" to clear the output box.
 Code Overview
-main.py
+Device Communication.py
 This file contains the main GUI code using customtkinter and tkinter. It sets up the user interface, handles user inputs, and interacts with the DeviceCommunication class.
 
 Device_Communication_logic.py
